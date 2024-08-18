@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Jupyter-E34F26?style=for-the-badge&logo=jupyter&logoColor=white" alt="JUPYTER"/>
   <img src="https://img.shields.io/badge/Linux-1572B6?style=for-the-badge&logo=linux&logoColor=white" alt="LINUX"/>
   <img src="https://img.shields.io/badge/Go-1572B6?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Git-1572B6?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
 <div align="center">
   <h2>Redes</h2>
