@@ -27,9 +27,9 @@
   <a href="https://www.linkedin.com/in/mjgoldemberg/" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-%230077B5?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank"></a> 
 </div>
 <div align="center">
-  <h2>Lenguajes más utilizados</h2>
-</div>
-<div align="center">
+  <h2>🌟 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=mariana-jg&show_icons=true&theme=midnight-purple" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=mariana-jg&theme=midnight-purple" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-jg&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5&theme=midnight-purple&layout=donut-vertical" alt="Top Langs">
 </div>
 
