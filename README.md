@@ -10,10 +10,18 @@
   </a>
 <div align="center">
   <h2>🌟 GitHub Stats</h2>
-  <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mariana-jg&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-bottom: 20px;" />
-    <img src="https://streak-stats.demolab.com?user=mariana-jg&theme=radical" alt="GitHub Streak" style="margin-bottom: 20px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-jg&hide=jupyter%20notebook&layout=compact&theme=radical" alt="Most Used Languages" />
+
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=mariana-jg&show_icons=true&theme=radical" alt="GitHub Stats"/>
   </div>
+
+  <div>
+    <img src="https://streak-stats.demolab.com?user=mariana-jg&theme=radical" alt="GitHub Streak"/>
+  </div>
+
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-jg&hide=jupyter%20notebook&layout=compact&theme=radical" alt="Most Used Languages"/>
+  </div>
+
 </div>
 
