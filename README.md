@@ -1,35 +1,16 @@
 <div align="center">
   <h2>Hola! ✨</h2>
-</div>
-<div align="center">
   <p>💫 Soy estudiante de Ingeniería en Informática en la Universidad de Buenos Aires.</p>
   <p>🔮 Subo material de las materias cursadas en la carrera: resúmenes, resueltos y trabajos prácticos.</p>
 </div>
 <div align="center">
-  <h2>Lenguajes | Herramientas</h2>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/Rust-00599C?style=for-the-badge&logo=rust&logoColor=white" alt="RUST"/>
-  <img src="https://img.shields.io/badge/Jupyter-E34F26?style=for-the-badge&logo=jupyter&logoColor=white" alt="JUPYTER"/>
-  <img src="https://img.shields.io/badge/Linux-1572B6?style=for-the-badge&logo=linux&logoColor=white" alt="LINUX"/>
-  <img src="https://img.shields.io/badge/Go-1572B6?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Git-1572B6?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</div>
-<div align="center">
-  <h2>Redes</h2>
-</div>
-<div align="center">
-  <a href="https://www.instagram.com/_mariana_jg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mjgoldemberg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/mjgoldemberg/" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-%230077B5?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank"></a> 
-</div>
+  <h2>Lenguajes - Herramientas</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,java,rust,go,mongodb,git,github,gitlab,linux" alt="My Skills" />
+  </a>
 <div align="center">
   <h2>🌟 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=mariana-jg&show_icons=true&theme=midnight-purple" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=mariana-jg&theme=midnight-purple" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-jg&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5&theme=midnight-purple&layout=donut-vertical" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=mariana-jg&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=mariana-jg&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-jg&hide=jupyter%20notebook&layout=compact&theme=radical"/>
 </div>
-
